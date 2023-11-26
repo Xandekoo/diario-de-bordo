@@ -54,9 +54,7 @@ body{
 .titulo-destaque{
     color: var(--cor-terciaria);
 }
-main{
-    padding: 0%;
-}
+
 h1{
     color: var(--cor-secundaria);
 }
