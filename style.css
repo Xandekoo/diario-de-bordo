@@ -35,6 +35,12 @@
     color: var(--cor-primaria);
     text-decoration: none;
 }
+.cabecalho__menu__link__diario_inicio{
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: var(--cor-secundaria-diario);
+    text-decoration: none;
+}
 .cabecalho__menu__link__diario{
     font-size: 1.5rem;
     font-family: 'Times New Roman', Times, serif;
