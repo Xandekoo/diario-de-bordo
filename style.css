@@ -236,7 +236,11 @@ p{
     }
     .apresentacao__texto{
         width: auto;
+      
     }
-   
-    
+    .apresentacao__diario{
+        padding: 50px 0;
 }
+    .apresentacao__texto__links__link__diario{
+    width: 60%;
+    }
